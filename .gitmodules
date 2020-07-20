@@ -14,3 +14,7 @@
 	path = stock-logistics-workflow
 	url = git@github.com:Vauxoo/stock-logistics-workflow.git
 	branch = 12.0
+[submodule "addons-vauxoo"]
+	path = addons-vauxoo
+	url = https://github.com/Vauxoo/addons-vauxoo.git
+	branch = 12.0
