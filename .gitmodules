@@ -26,3 +26,7 @@
 	path = account-financial-tools
 	url = git@github.com:Vauxoo/account-financial-tools.git
 	branch = 12.0
+[submodule "credit-management"]
+	path = credit-management
+	url = git@git.vauxoo.com:vauxoo/credit-management.git
+	branch = 12.0
