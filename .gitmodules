@@ -30,3 +30,7 @@
 	path = credit-management
 	url = git@git.vauxoo.com:vauxoo/credit-management.git
 	branch = 12.0
+[submodule "purchase-workflow"]
+	path = purchase-workflow
+	url = git@github.com:OCA/purchase-workflow.git
+	branch = 12.0
