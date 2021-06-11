@@ -34,3 +34,6 @@
 	path = purchase-workflow
 	url = git@github.com:OCA/purchase-workflow.git
 	branch = 12.0
+[submodule "display_import_button"]
+	path = display_import_button
+	url = git@github.com:GlorieuxAmichia/display_import_button.git
